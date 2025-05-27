@@ -1,5 +1,8 @@
 # AI for Identifying Abandoned Properties
 
+## Summary
+An end-to-end AI platform that detects, verifies, and catalogs abandoned properties across urban and rural areas. Users can upload images and location data; the system scores each property’s abandonment likelihood using computer vision, then lets administrators manage and export verified records.
+
 ## Overview
 An AI-powered system for detecting, verifying, and cataloguing abandoned properties in urban and rural areas. Integrates web, mobile, backend, and AI modules to streamline reporting and analytics.
 
